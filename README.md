@@ -14,4 +14,6 @@ Oi! Trabalho com informática desde 2017 e agora tô querendo entrar de cabeça 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-da-silva-freitas-543226158/)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunosilvafreitass&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunosilvafreitass&layout=compact&theme=dracula)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=brunosilvafreitass&layout=compact&theme=dracula)
