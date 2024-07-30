@@ -1,7 +1,7 @@
 
 # Olá, eu sou o Bruno! 👋
 
-Oi! Trabalho com informática desde 2017 e agora tô querendo entrar de cabeça como desenvolvedor. Tô em busca da minha primeira chance nessa área. Pronto para encarar desafios e botar a mão na massa.
+Sou Bruno, profissional de TI desde 2017. Minha experiência abrange suporte ao cliente, manutenção de máquinas e redes, com forte atuação na infraestrutura. Atualmente, estou em transição de carreira para desenvolvedor back-end, buscando expandir meus conhecimentos e habilidades na área de desenvolvimento de software.
 
 ## 🛠 Habilidades
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
